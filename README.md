@@ -10,7 +10,7 @@ Displays an “Answer” label, a read-only result box, digit buttons in a grid,
 - Chaining operations  
 - Clear (“C”) resets the calculator
 
-  ### Prerequisites
+## Prerequisites
 - Windows PC  
 - Visual Studio 2019 or later  
 - .NET Framework 4.7.2 installed  
