@@ -1,0 +1,10 @@
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\bin\Debug\Calculatov1.exe.config
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\bin\Debug\Calculatov1.exe
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\bin\Debug\Calculatov1.pdb
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.csproj.AssemblyReference.cache
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.Form1.resources
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.Properties.Resources.resources
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.csproj.GenerateResource.cache
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.csproj.CoreCompileInputs.cache
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.exe
+C:\Users\Sher\source\repos\Calculatov1\Calculatov1\obj\Debug\Calculatov1.pdb
